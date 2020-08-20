@@ -19,6 +19,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import com.cjc.model.Student;
 import com.cjc.serviceinterface.HomeService;
 import com.cjc.util.GeneratePdfReport;
+//hi this is changed by priya
 @Controller
 public class HomeController {
 	@Autowired
